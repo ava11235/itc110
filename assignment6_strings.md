@@ -22,9 +22,9 @@ Assignment
 Code the following programs from Python Programming textbook:
 
 P. 171 ex. 4
-Sample Output:
+Expeted result with sample phrase
 
 This program builds acronyms
->>>Enter a phrase: Seattle Central Information Technology Program
+Enter a phrase: Seattle Central Information Technology Program
 
->>> The acronym is SCITP
+The acronym is SCITP
